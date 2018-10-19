@@ -1,5 +1,7 @@
 # tic_tac_toe
 
+[![GuardRails badge](https://badges.production.guardrails.io/TheLondonWhale/tic_tac_toe.svg)](https://www.guardrails.io)
+
 Ce projet est un jeu du morpion 
 Il se joue à 2 et permet d'éviter l'ennuie des longues soirée d'été sur la plage (Hè oui !)
 
